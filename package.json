@@ -1,0 +1,19 @@
+{
+  "name": "dfk-event-logger",
+  "version": "1.0.0",
+  "description": "Capture event logs from DFK contracts",
+  "author": "Stompasaurus",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^5.6.9",
+    "terminal-kit": "^3.0.0",
+    "zod": "^3.20.2"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "@types/node": "^18.11.18",
+    "@types/terminal-kit": "^2.5.1",
+    "typescript": "^4.9.5"
+  }
+}
